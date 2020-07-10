@@ -1,0 +1,48 @@
+body{
+	background-image:inherit;
+	background-position: center;
+	background-size: cover;
+	height: 100vh;
+
+	
+}
+h1{
+	color: green;
+	font-size: 70px;
+	text-shadow: -4px 4px 6px lightgreen;
+
+}
+h2{
+	color: green;
+	font-family: cursive;
+	font-size: 47px;
+}
+.textbox{
+	width: 40%;
+	overflow: hidden;
+	font-size: 20px;
+	padding: 8px 0;
+    margin:  8px 0;
+    border-bottom: 3px solid #4caf50;
+}
+.textbox input{
+	border: none;
+	outline: none;
+	background:transparent;
+	font-size: 18px;
+	width: 80px;
+	color: black;
+	margin:0 10px;
+}.login-btn{
+	color: green;
+	width: 30%;
+	padding: 10px;
+	border-radius: 20px;
+	font-size: 	15px;
+	margin: 10px 0;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	background-color: lightyellow;
+
+}
